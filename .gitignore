@@ -1,0 +1,6 @@
+# VIRTUAL ENVIRONMENTs ignores
+
+venv/
+
+# IDEs based ignores
+.idea/
